@@ -1,1 +1,2 @@
-# feb-2025-avasjcript-events-and-basic-interactivity
+# feb-2025-JavaScript-events-and-basic-interactivity
+
